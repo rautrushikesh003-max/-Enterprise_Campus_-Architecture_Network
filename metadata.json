@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Campus Network Simulator",
+  "description": "Interactive Cisco Packet Tracer style simulation of an enterprise 3-tier multi-VLAN campus network with OSPF routing, STP, HSRP redundancy, and L2 security controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
